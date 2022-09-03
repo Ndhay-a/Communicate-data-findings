@@ -1,0 +1,23 @@
+# Diamonds Data Exploration
+
+## Dataset
+
+This data set contains 113,937 loans with 81 variables on each loan. My exploration will not  focus on all the variables listed but some which will include,  loan amount, borrower rate (or interest rate), impact of investors on a listing, current loan status, terms of payment, borrower income, and many others.
+
+The dataset was provided by udacity from their class environment.
+
+## Summary of Findings
+
+
+In the exploration, I came across strong relationships between variables, the number of listings being affected by factors such as the employment status of individuals and I could clearly see that a higher number of listings constituted a higher number of employed individuals followed by those who never stated their employment status while the unemployed came in last. The number of investors associated with a listing could also be seen and it had a positive correlation to the amount of loan a borrower got. Home owners showed a general positive performance throughout the period examined, and I was able to tell that listings done on homeowners did receive better prosper ratings compared to those who don't own a home.
+
+Income verifiability also played an important role, more listings were done on individuals whose income could be verified and mostly these were homeowners. I was also able to tell that the monthly loan payment on the listing was directly proportional to the original loan amount, therefore the higher the original loan amount, the higher the monthly loan payment expected. Interesting finding was associated with how much loan amount related to the payment terms. With these 2 variables I could tell that huge original loan amounts had the longest payment term of 60 months. It is important to also note that while examining the data set, most listings were done on individuals who belonged to a group.
+
+I could also tell that the highest number of listings were done for the term of 36 months followed by 60 and lastly 12, but interestingly this was not the case while examining how the original loan amount related to the term of listing. On the contrary huge amounts of loans were mostly listed with a term of 60 months followed by 36 then 12 months respectively. High listings were done the first and last 3 months of the year making # Loan Data from Prosper
+
+
+
+
+## Key Insights for Presentation
+For my presentation, the listing terms , employnet status, number of investors and related how they affected the amount and number of listings. First off I looked at how payment terms and employment status related to the number of listings. I then used a scatter plot to show the relationship between original loan payment and how it relates to the monthly loan payment. The graphs after that depicted how the number and amount of listings were being affected by prosper ratings and number of investors. I also related the quarters of the year and terms of payment  to the total loan original amount.
+
